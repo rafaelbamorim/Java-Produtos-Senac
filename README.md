@@ -1,5 +1,3 @@
-## Atividade proposta pela Faculdade Senac
-
 1) Implemente em Java uma classe que represente um Fornecedor:
    a)Cada fornecedor possui como atributos, seu CNPJ (uma String), seu telefone (uma String) e o seu nome (uma String).
 
@@ -12,5 +10,3 @@
 
 4) Implemente em Java uma classe chamada ConjuntoProdutos que contenha um ArrayList que possa guardar produtos (classe implementada na questão anterior) e forneça métodos que permitam inserir, remover, atualizar, mostrar produtos e atualizar o preço dos produtos por porcentagem. 
    Obs.: O conjunto não deve permitir que produtos com o mesmo código sejam cadastrados no conjunto.
-
-
